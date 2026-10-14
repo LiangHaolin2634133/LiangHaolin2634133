@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Haolin Liang 👋
+
+I'm an MS graduate student at Tongji University.
+
+### 🔬 Research Interests
+
+- Embodied Agent
+- Multimodal Large Language Models
+- Multi-Agent Systems
+- AI Safety and Trustworthiness
+
+### 📫 Contact
+
+- **Institution:** Tongji University
+- **Email:** Liang_Julian_4295@tongji.edu.cn
 
 <!--
 **LiangHaolin2634133/LiangHaolin2634133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
