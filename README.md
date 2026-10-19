@@ -12,7 +12,7 @@ I'm an MS graduate student at Tongji University.
 ### 📫 Contact
 
 - **Institution:** Tongji University
-- **Email:** Liang_Julian_4295@tongji.edu.cn or 2634133@tongji.edu.cn
+- **Email:** 2634133@tongji.edu.cn or liangjulian2634133@gmail.com
 
 <!--
 **LiangHaolin2634133/LiangHaolin2634133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
