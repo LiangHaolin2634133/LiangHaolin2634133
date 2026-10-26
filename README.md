@@ -1,6 +1,6 @@
 # Hi, I'm Haolin Liang（中文名：梁浩霖）from China 👋
 
-I'm an MS graduate student at Tongji University (enrolling in Sept. 2026).
+I'm an MS graduate student at Tongji University (enrolled in Sept. 2026).
 
 ### 🔬 Research Interests
 
