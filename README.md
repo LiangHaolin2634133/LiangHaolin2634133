@@ -5,9 +5,9 @@ I'm an MS graduate student at Tongji University (enrolling in Sept. 2026).
 ### 🔬 Research Interests
 
 - Embodied Agent
-- Multimodal Large Language Models
 - Multi-Agent Systems
 - AI Safety and Trustworthiness
+- Multimodal Large Language Models
 
 ### 📫 Contact
 
